@@ -55,11 +55,11 @@ O projeto tem como finalidade:
 ---
 
 ## 🌐 Futuras melhorias:
-- Integração com APIs de reservas.
+- Integração com APIs de reservas;
 
-- Sistema multilíngue (ex.: português, inglês, espanhol).
+- Sistema multilíngue (ex.: português, inglês, espanhol);
 
-- Galeria interativa de imagens e vídeos.
+- Galeria interativa de imagens e vídeos;
 
 - Área de depoimentos de hóspedes.
 
