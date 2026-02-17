@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f1724"/>
+      <stop offset="100%" stop-color="#2b6cb0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#g)"/>
+  <circle cx="1300" cy="100" r="80" fill="#ffd166" opacity="0.95"/>
+  <g fill="#ffffff" opacity="0.12">
+    <rect x="60" y="260" width="420" height="160" rx="14"/>
+    <rect x="120" y="220" width="300" height="40" rx="8"/>
+  </g>
+  <text x="90" y="170" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Luxury Stay</text>
+  <text x="90" y="210" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="20" opacity="0.95">Hotelaria de luxo — conforto e elegância</text>
+</svg>

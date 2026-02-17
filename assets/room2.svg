@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="r2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#90f7ec"/>
+      <stop offset="100%" stop-color="#32ccbc"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect x="40" y="60" width="720" height="420" rx="16" fill="url(#r2)"/>
+  <g fill="#ffffff" opacity="0.9">
+    <rect x="80" y="120" width="560" height="40" rx="6"/>
+    <rect x="120" y="180" width="480" height="240" rx="10"/>
+  </g>
+  <text x="80" y="420" fill="#073b3a" font-family="Arial, Helvetica, sans-serif" font-size="26">Suíte Deluxe</text>
+</svg>

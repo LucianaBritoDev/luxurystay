@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="r3" x1="0" x2="1">
+      <stop offset="0%" stop-color="#a18cd1"/>
+      <stop offset="100%" stop-color="#fbc2eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#fff"/>
+  <rect x="40" y="60" width="720" height="420" rx="16" fill="url(#r3)"/>
+  <g fill="#fff" opacity="0.9">
+    <rect x="80" y="100" width="640" height="40" rx="6"/>
+    <rect x="120" y="160" width="520" height="260" rx="10"/>
+  </g>
+  <text x="80" y="420" fill="#4a235a" font-family="Arial, Helvetica, sans-serif" font-size="26">Suíte Presidencial</text>
+</svg>
