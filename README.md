@@ -4,7 +4,7 @@
 <img width="1387" height="371" alt="3" src="https://github.com/user-attachments/assets/2c6ed19b-c537-419e-8582-995be585833b" />
 
 
-# 🏨 Luxury Stay - Hotelaria de Luxo
+ 🏨 Luxury Stay - Hotelaria de Luxo
 
 Bem-vindo ao **Luxury Stay**, um projeto voltado para apresentar e promover experiências únicas em hotelaria de luxo.  
 Este repositório contém o código e os recursos necessários para construir uma página web elegante e funcional, destacando os diferenciais de hospedagens premium.
@@ -60,6 +60,14 @@ O projeto tem como finalidade:
 - Galeria interativa de imagens e vídeos.
 
 - Área de depoimentos de hóspedes.
+
+
+## 📬 Contato:
+
+- **Email:** lucianabritodev@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/luciana-brito-60a307237)  
+- [GitHub](https://github.com/LucianaBritoDev)
+
 
 📜 Licença:
 Este projeto é de uso educacional e pode ser adaptado livremente.
